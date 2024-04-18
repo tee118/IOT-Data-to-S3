@@ -47,6 +47,6 @@ This project aims to create a system for realtime ingestion of IoT data to an S3
 ## Conclusion
 This project demonstrates the setup of a robust data pipeline for processing and storing simulated solar power data in real-time. By leveraging AWS services like IoT Core, Firehose, Lambda, and S3, it enables efficient data ingestion, transformation, and storage, paving the way for further analysis and insights.
 
-read more at: https://teebaba.hashnode.dev/realtime-iot-data-ingestion-to-s3
+[Read more](https://teebaba.hashnode.dev/realtime-iot-data-ingestion-to-s3)
 
 ---
